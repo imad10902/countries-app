@@ -1,0 +1,30 @@
+.logo-container {
+    text-align: center;
+    margin: -1rem;
+  }
+  
+  .logo-container img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  @media screen and (min-width: 100px) {
+    .logo-container {
+        text-align: center;
+        margin: -1.5rem;
+      }
+    .logo-container img {
+      max-width: 60%;
+    }
+  }
+  
+  @media screen and (min-width: 1024px) {
+    .logo-container {
+        text-align: center;
+        margin: -3rem;
+      }
+    .logo-container img {
+      max-width: 50%;
+    }
+  }
+  
