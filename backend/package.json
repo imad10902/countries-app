@@ -8,7 +8,14 @@
     "node": "18.x"
   },
   "scripts": {
-     "start": "node index.js",
-     "build": "npm i"
-  }
+    "start": "node index.js",
+    "build": "npm i"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
